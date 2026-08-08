@@ -17,7 +17,7 @@
   </a>
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -33,7 +33,7 @@
 
 🎯 Preparing for **Software Engineer / Full-Stack Developer** opportunities
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -67,7 +67,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netbeans"/>
 </p>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -103,7 +103,7 @@ A responsive dance school website featuring modern UI, dance styles, testimonial
 </tr>
 </table>
 
----
+
 
 ## 🔨 Currently Working On
 
@@ -115,22 +115,6 @@ Building an assistive system that identifies environmental sounds and converts r
 
 > 🚧 **In Development**
 
----
-
-## 📚 Currently Focusing On
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-DSA-FF8139?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
-
-<p align="center">
-  <b>DSA • Backend Development • REST APIs • Full-Stack Development • Machine Learning</b>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
@@ -146,7 +130,7 @@ Building an assistive system that identifies environmental sounds and converts r
   </a>
 </p>
 
----
+
 
 <p align="center">
   <i>Build. Learn. Solve. Improve. 🚀</i>
