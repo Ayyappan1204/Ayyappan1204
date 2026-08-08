@@ -2,7 +2,7 @@
 
 ### 🚀 Final-Year B.Tech Information Technology Student | Java Developer | Full-Stack Developer
 
-> Building scalable applications, solving problems with DSA, and continuously learning new technologies.
+> Building practical software solutions, solving problems with DSA, and continuously improving my development skills.
 
 ---
 
@@ -10,21 +10,21 @@
 
 🎓 Final-year **B.Tech Information Technology** student at **Madras Institute of Technology, Anna University**
 
-💻 Passionate about **Software Development & Full-Stack Development**
+💻 Interested in **Software Development & Full-Stack Development**
 
 ☕ Strong foundation in **Java & Data Structures and Algorithms**
 
-🌱 Currently strengthening my skills in **Spring Boot, React.js, Node.js & Backend Development**
+🌱 Currently focusing on **Spring Boot, React.js, Node.js and Backend Development**
 
-🧠 Interested in building practical solutions to real-world problems
+🧠 Passionate about building practical applications and solving real-world problems
 
-🎯 Preparing for **Software Engineer / Full-Stack Developer** opportunities
+🎯 Actively preparing for **Software Engineer / Full-Stack Developer** opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
@@ -48,10 +48,10 @@
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Tools & Platforms
+### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netbeans,maven" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netbeans" />
 </p>
 
 ---
@@ -62,9 +62,9 @@
 
 **Java • Spring Boot • MySQL • Thymeleaf**
 
-A web-based library management system for managing books, users, borrowing and returning operations.
+A web-based library management system designed to manage books, users, borrowing and returning operations.
 
-🔗 **[View Project](#)**
+🔗 **[View Project](https://booksphere-library-management-system.onrender.com/)**
 
 ---
 
@@ -72,114 +72,57 @@ A web-based library management system for managing books, users, borrowing and r
 
 **React.js • React Bootstrap • Material UI • CSS**
 
-A modern dance school website featuring responsive UI, navigation, dance styles, testimonials, registration and contact sections.
+A responsive dance school website with modern UI, navigation, dance styles, testimonials, registration and contact features.
 
-🔗 **[View Project](#)**
+🔗 **[View Project](https://ayyappan1204.github.io/mern_html/)**
 
 ---
+
+## 🔨 Currently Working On
 
 ### 🤖 Environmental Sound → Visual Alert System
 
 **Python • TensorFlow • YAMNet • Machine Learning**
 
-An assistive system that identifies environmental sounds and converts recognized sounds into visual alerts for improved environmental awareness.
+Developing an assistive system that identifies environmental sounds and converts recognized sounds into visual alerts to improve environmental awareness.
 
-🔗 **[View Project](#)**
-
----
-
-## 🧠 Currently Working On
-
-```text
-🔹 Advanced Java & Spring Boot
-🔹 Data Structures & Algorithms
-🔹 Full-Stack Development
-🔹 REST API Development
-🔹 Machine Learning
-🔹 Software Engineering & System Design
-```
+> 🚧 Currently under development
 
 ---
 
-## 📊 GitHub Statistics
+## 🧠 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=FF8139&icon_color=FF8139" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=FF8139" height="180"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=FF8139&fire=FF8139&currStreakLabel=FF8139" />
-</p>
+* Advanced Java
+* Data Structures & Algorithms
+* Spring Boot
+* REST API Development
+* Full-Stack Development
+* Machine Learning
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-## 📈 My Developer Journey
-
-```text
-Java
-  ↓
-Object-Oriented Programming
-  ↓
-Data Structures & Algorithms
-  ↓
-Spring Boot
-  ↓
-REST APIs
-  ↓
-React.js
-  ↓
-Node.js + Express.js
-  ↓
-Full-Stack Development
-  ↓
-Software Engineering 🚀
-```
-
----
-
-## 🌐 Connect With Me
+## 🤝 Let's Connect
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Ayyappan1204">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<a href="https://www.linkedin.com/in/ayyappanj/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<a href="mailto:ayyappanj2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 👀 Profile Views
+### 💭
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=FF8139&style=flat" />
-</p>
+> **Build. Learn. Improve. Repeat.**
 
----
-
-### 💭 Developer Philosophy
-
-> **"Build. Break. Learn. Improve. Repeat."**
-
-⭐ Feel free to explore my repositories and connect with me!
+⭐ Thanks for visiting my profile!
