@@ -91,7 +91,7 @@ A web-based library management system for managing books, users, borrowing and r
 
 ### 💃 Chennai Spring Boots
 
-**React.js · React Bootstrap · Material UI · CSS**
+**HTML · CSS**
 
 A responsive dance school website featuring modern UI, dance styles, testimonials, registration and contact functionality.
 
