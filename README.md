@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF8139&center=true&vCenter=true&width=700&lines=Final-Year+B.Tech+IT+Student;Java+Developer;Full-Stack+Developer;Software+Developer;Building+Real-World+Applications"/>
 </p>
 
+---
+
 ## 👨‍💻 About Me
 
 🎓 Final-Year **B.Tech Information Technology Student** at **Madras Institute of Technology, Anna University**
@@ -22,7 +24,7 @@
 
 🎯 Preparing for **Software Engineer / Full-Stack Developer** opportunities
 
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -56,12 +58,13 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netbeans"/>
 </p>
 
-
+---
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 📚 Library Management System
@@ -89,10 +92,54 @@ A responsive dance school website featuring modern UI, dance styles, testimonial
 </a>
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📈 Indian Stock Price Predictor
+
+**Python · TensorFlow · Keras · LSTM · Streamlit · yFinance**
+
+An interactive machine learning web application for Indian stock price time-series forecasting using a stacked LSTM neural network.
+
+**Features:**
+- 📊 Historical stock market data
+- 🧠 LSTM-based time-series forecasting
+- 📏 MAE, RMSE, MAPE & R² evaluation
+- 📈 Actual vs predicted price visualization
+- 🔮 Direct 30-business-day forecasting
+- 📅 Monthly historical performance
+- ☁️ Streamlit Community Cloud deployment
+
+<a href="https://ayyappan1204-stock-price-predictor-app-tbq63m.streamlit.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ayyappan1204/Stock_Price_Predictor">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🤖 Environmental Sound → Visual Alert System
+
+**Python · TensorFlow · YAMNet · Machine Learning**
+
+Building an assistive system that identifies environmental sounds and converts recognized sounds into visual alerts.
+
+> 🚧 **In Development**
+
+</td>
+
 </tr>
 </table>
 
-
+---
 
 ## 🔨 Currently Working On
 
@@ -104,6 +151,7 @@ Building an assistive system that identifies environmental sounds and converts r
 
 > 🚧 **In Development**
 
+---
 
 ## 🤝 Let's Connect
 
@@ -119,7 +167,7 @@ Building an assistive system that identifies environmental sounds and converts r
   </a>
 </p>
 
-
+---
 
 <p align="center">
   <i>Build. Learn. Solve. Improve. 🚀</i>
