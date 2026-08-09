@@ -65,7 +65,7 @@
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ### 📚 Library Management System
 
@@ -74,12 +74,15 @@
 A web-based library management system for managing books, users, borrowing and returning operations.
 
 <a href="https://booksphere-library-management-system.onrender.com/">
-<img src="https://img.shields.io/badge/Live%20Demo-FF8139?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
+<a href="https://github.com/Ayyappan1204/BookSphere-Library-Management-System">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ### 💃 Chennai Spring Boots
 
@@ -88,7 +91,11 @@ A web-based library management system for managing books, users, borrowing and r
 A responsive dance school website featuring modern UI, dance styles, testimonials, registration and contact functionality.
 
 <a href="https://ayyappan1204.github.io/mern_html/">
-<img src="https://img.shields.io/badge/Live%20Demo-FF8139?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ayyappan1204/mern_html">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -97,7 +104,7 @@ A responsive dance school website featuring modern UI, dance styles, testimonial
 
 <tr>
 
-<td width="50%" align="center">
+<td width="100%" align="center">
 
 ### 📈 Indian Stock Price Predictor
 
