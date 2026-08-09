@@ -65,7 +65,7 @@
 <table>
 <tr>
 
-<td width="50%" >
+<td width="50%" align="center">
 
 ### 📚 Library Management System
 
@@ -82,7 +82,7 @@ A web-based library management system for managing books, users, borrowing and r
 </a>
 </td>
 
-<td width="50%" >
+<td width="50%" align="center" >
 
 ### 💃 Chennai Spring Boots
 
@@ -104,7 +104,7 @@ A responsive dance school website featuring modern UI, dance styles, testimonial
 
 <tr>
 
-<td width="100%" align="center">
+<td width="50%" align="center">
 
 ### 📈 Indian Stock Price Predictor
 
