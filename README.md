@@ -65,7 +65,7 @@
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" >
 
 ### 📚 Library Management System
 
@@ -82,7 +82,7 @@ A web-based library management system for managing books, users, borrowing and r
 </a>
 </td>
 
-<td width="50%" align="center">
+<td width="50%" >
 
 ### 💃 Chennai Spring Boots
 
